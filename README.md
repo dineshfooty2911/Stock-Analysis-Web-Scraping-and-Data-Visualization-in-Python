@@ -1,1 +1,6 @@
-# Pythonlibraries
+Web scraping was used in the stock analysis project to harvest financial data from Stooq Finance and save it in a Pandas dataframe. The Pandas library was used to analyse the data in order to calculate the returns on investment, and Seaborn, Matplotlib, and Cufflinks were used to illustrate the trends.
+
+The project's goal was to offer insights into a specific stock's performance by examining past data to find trends, patterns, and prospective investment possibilities. A sizable amount of data was able to be gathered from Stooq Finance using web scraping, which was then processed and analysed in the Pandas environment. The data was changed to meet the needs of the project and make analysis simple.
+The Pandas library was used to perform statistical analysis on the data and calculate the returns on the stock. This analysis was critical in identifying the patterns and trends in the stock's performance, including any fluctuations in its value. The Seaborn, Matplotlib, and Cufflinks libraries were used to visualize the data, making it easier to interpret and understand.
+
+Overall, the stock analysis project was an exercise in data extraction, manipulation, and visualization, aimed at providing insights into the performance of a particular stock. It showcased the power of Python in working with financial data and provided valuable insights into the stock market.
